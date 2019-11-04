@@ -1,0 +1,33 @@
+4444444444
+
+overview = 6
+purpose 6
+
+scope = 7
+functional requirements 7
+non-functional requirements 8
+operating environment 8..9
+
+
+
+5555555
+
+Use Case Diagram 10
+Sequence Diagram 11
+Architecture Diagram 12
+Data Flow Diagram 12 - 13
+
+
+// diagrams
+5.1 Use Case Diagram 10
+5.2 Sequence Diagram 11
+5.3 Architecture Diagram 12
+5.4 Data Flow Diagram 13
+
+6.1 Speech-to-Text 14
+6.2 Application Screen 15 
+6.3 IP Address Connectivity 16
+6.4 Image Captioning Architecture Diagram 17
+6.5 Image Captioning using Attention 17
+6.6 Image Captioning output in the application 18
+
